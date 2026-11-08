@@ -17,7 +17,13 @@ The goal is to reinforce core concepts through repetition and understand how the
 
 ## Screenshot
 
-![QR Code Component running in Expo Go](./assets/Screenshot_20261109_031834_Expo%20Go.jpg)
+<p align="center">
+  <img
+    src="./assets/Screenshot_20261109_031834_Expo%20Go.jpg"
+    alt="QR Code Component running in Expo Go"
+    width="300"
+  />
+</p>
 
 ## Built With
 
