@@ -21,7 +21,6 @@ body{
     align-items: center;
 }
 .card{
-
     box-sizing: border-box;
     background-color: #FFFFFF;
     width: 384px;
@@ -33,6 +32,7 @@ body{
     gap: 24px;
     margin-bottom: 0;
     box-shadow: 8px 8px 0 0 #000000;
+    border: 1px solid #111111;
 }
 .card-image{
     height: 200px;
