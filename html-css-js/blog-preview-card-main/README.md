@@ -11,6 +11,12 @@ The objective was to practice translating a Figma design into a responsive webpa
 
 The implementation does not require JavaScript, frameworks, or external UI libraries.
 
+### Links
+
+- **Live Site:** [View Blog Preview Card](https://glovatskiy.github.io/frontend-mentor-challenges/html-css-js/blog-preview-card-main/)
+- **GitHub Repository:** [View Source Code](https://github.com/glovatskiy/frontend-mentor-challenges/tree/main/html-css-js/blog-preview-card-main)
+- **Frontend Mentor Challenge:** [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
 ## Screenshot
 
 <p align="center">
