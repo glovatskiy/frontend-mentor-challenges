@@ -5,30 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
-  
   <title>Frontend Mentor | Social links profile</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 0.6875rem; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-  Jessica Randall
-  London, United Kingdom
-  "Front-end developer and avid reader."
-
-  GitHub
-  Frontend Mentor
-  LinkedIn
-  Twitter
-  Instagram
-  
+  <div class="container">
+<div class="card-container">
+  <img class="avatar" src="./assets/images/avatar-jessica.jpeg" alt="frondend developer">
+  <div class="info-section">
+    <h1 class="info-heading">Jessica Randall</h1>
+  <p class="info-location">London, United Kingdom</p>
+</div>
+   <p class="bio-text">"Front-end developer and avid reader."</p>
+   <ul class="links-list">
+    <li class="link"><a href="#">GitHub</a></li>
+    <li class="link"><a href="#">Frontend Mentor</a></li>
+    <li class="link"><a href="#">LinkedIn</a></li>
+    <li class="link"><a href="#">Twitter</a></li>
+    <li class="link"><a href="#">Instagram</a></li>
+   </ul>
+</div>
+ </div>
   <footer class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    Coded by <a href="#">Vladislav Glovatskiy</a>.
   </footer>
 </body>
 </html>
