@@ -79,3 +79,18 @@ footer{
 footer a{
     color: white;
 }
+.link a:hover{
+    background-color: #C4F82A;
+    color: #333333;
+    cursor: pointer;
+}
+@media(max-width: 480px){
+    .card-container{
+        width: 327px;
+        height: 579px;
+        padding: 24px;
+    }
+    .link a{
+        width: 279px;
+    }
+}
