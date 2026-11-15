@@ -84,6 +84,11 @@ footer a{
     color: #333333;
     cursor: pointer;
 }
+.link a:focus-visible{
+    background-color: #C4F82A;
+    color: #333333;
+    cursor: pointer;
+}
 @media(max-width: 480px){
     .card-container{
         width: 327px;
