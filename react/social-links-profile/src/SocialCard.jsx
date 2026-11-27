@@ -15,7 +15,10 @@ const SocialCard = () => {
       height: 611,
       backgroundColor: "#1F1F1F",
       borderRadius: 12,
-      padding: 40,
+          padding: 40,
+          display: "flex",
+          flexDirection: "column",
+      alignItems: "center"
       },
       img: {
           borderRadius: 100
